@@ -1,0 +1,2 @@
+github "audiokit/AudioKit"
+github "danielgindi/Charts" ~> 3.0.5
